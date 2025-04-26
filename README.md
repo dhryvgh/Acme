@@ -1,5 +1,31 @@
-## Next.js App Router Course - Starter
+# Acme - Financial Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+A responsive financial dashboard built with **Next.js**, **TailwindCSS**, **PostgreSQL**, and **NextAuth.js**.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Demo
+
+- **Live:** [acme.vercel.app](https://acme-site.vercel.app)
+
+**Demo Credentials:**
+- Email: user@nextmail.com
+- Password: 123456
+
+## Features
+
+- Manage invoices with real-time updates
+- Secure authentication with NextAuth.js
+- PostgreSQL database integration
+- Server Actions for optimized performance
+- Fully responsive UI
+
+## Tech Stack
+
+Next.js 14, TailwindCSS, PostgreSQL, NextAuth.js, Vercel
+
+## Getting Started
+
+```bash
+git clone https://github.com/dhryvgh/Acme.git
+cd Acme
+npm install
+npm run dev
