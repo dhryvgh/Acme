@@ -20,7 +20,7 @@ A responsive financial dashboard built with **Next.js**, **TailwindCSS**, **Post
 
 ## Tech Stack
 
-Next.js 14, TailwindCSS, PostgreSQL, NextAuth.js, Vercel
+Next.js, TailwindCSS, PostgreSQL, NextAuth.js, Vercel
 
 ## Getting Started
 
