@@ -1,4 +1,4 @@
-# Fyn - Next.js Financial Dashboard
+# Acme - Next.js Financial Dashboard
 
 A responsive financial dashboard built with **Next.js**, **TailwindCSS**, **PostgreSQL**, and **NextAuth.js**.
 
